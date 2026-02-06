@@ -1,1 +1,1 @@
-Test Logika Project
+Test Project
